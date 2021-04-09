@@ -106,11 +106,16 @@ Print the paragraph, sentence or the word corresponding to the query to check th
 Sample Input:
 
 2
+
 Learning C is fun.
+
 Learning pointers is more fun.It is good to have pointers.
 3
+
 1 2
+
 2 1 1
+
 3 1 1 1
 
 Sample Output:
