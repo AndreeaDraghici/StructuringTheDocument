@@ -110,6 +110,7 @@ Sample Input:
 Learning C is fun.
 
 Learning pointers is more fun.It is good to have pointers.
+
 3
 
 1 2
@@ -121,7 +122,9 @@ Learning pointers is more fun.It is good to have pointers.
 Sample Output:
 
 Learning pointers is more fun.It is good to have pointers.
+
 Learning C is fun
+
 Learning
 
 
