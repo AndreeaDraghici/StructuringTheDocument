@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617964304 source:c:\users\user\documents\github\structuringthedocument\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"Document.h"
+	"Document.c"
+
+1617965099 c:\users\user\documents\github\structuringthedocument\document.h
+
+1617965064 c:\users\user\documents\github\structuringthedocument\document.c
+	"Document.h"
+
